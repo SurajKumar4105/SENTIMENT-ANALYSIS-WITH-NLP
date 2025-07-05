@@ -14,8 +14,6 @@ MENTOR : NEELA SANTOSH
 
 #DESCRIPITION
 
-Sentiment Analysis – A Comprehensive Description (500+ words)
-
 Sentiment analysis, also known as opinion mining, is a field of natural language processing (NLP) and computational linguistics that focuses on identifying and extracting subjective information from text. Its main goal is to determine the emotional tone behind a body of text, helping machines understand the sentiments expressed by individuals. Whether it's a review, a tweet, a customer comment, or a news article, sentiment analysis seeks to classify the underlying opinion as positive, negative, or neutral. In some advanced scenarios, it even detects specific emotions like happiness, anger, sadness, or excitement.
 
 Importance and Applications
